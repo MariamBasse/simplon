@@ -1,8 +1,8 @@
 
-# samanemvc
-# Ngor SECK
+# mayyamvc
+# Mariam Basse
 # PHP 
 # MVC version 1.1
-# SamaneMVC is a PHP framework
-# ngorsecka@gmail.com
-# samanemvc@gmail.com
+# mayyamvc is a PHP framework
+# mayyabasse@gmail.com
+# mayyamvc@gmail.com
