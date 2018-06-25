@@ -1,0 +1,16 @@
+{
+    "name": "mayya/mayyamvc",
+    "description": "mayyamvc is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mayyaframework",
+            "email": "mayyabasse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
